@@ -1,0 +1,16 @@
+# Local Python files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local reports and export files
+/report_data/
+/outputs/
+*.xls
+*.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
